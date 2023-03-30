@@ -1,0 +1,15 @@
+{
+  "name": "finaltest",
+  "version": "1.0.0",
+  "description": "final project automation ui using cypress",
+  "main": "index.js",
+  "author": "masari",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "prettier": "^2.8.7"
+  },
+  "scripts": {
+    "cy:open": "cypress open"
+  }
+}
